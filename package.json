@@ -1,0 +1,19 @@
+{
+  "name": "httpd_with_mod_auth_oidc",
+  "version": "2.4.3",
+  "description": "This is a multistage Dockerfile that builds [Apache HTTPD](https://hub.docker.com/_/httpd) with [mod_auth_openidc](https://github.com/zmartzone/mod_auth_openidc/).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trajano/httpd_with_mod_auth_oidc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trajano/httpd_with_mod_auth_oidc/issues"
+  },
+  "homepage": "https://github.com/trajano/httpd_with_mod_auth_oidc#readme"
+}
